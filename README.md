@@ -77,6 +77,6 @@ dotnet test --logger "console;verbosity=detailed"
 ```
 
 ---
-Anna Vitória Rocha Dias - 325118421  - Dev Backend / Core
-Maycon De Oliveira Gomes Batista - 325125878 - QA / Testes Unitários
+Anna Vitória Rocha Dias - 325118421  - Dev Backend / Core  
+Maycon De Oliveira Gomes Batista - 325125878 - QA / Testes Unitários  
 Karolyne Silva - 32517941 - Documentação e DevOps / Versionamento
