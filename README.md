@@ -32,7 +32,7 @@ Siga o passo a passo abaixo para baixar o projeto e executá-lo em sua máquina 
 Abra o seu terminal e execute o comando de clonagem (substitua pela URL do seu repositório):
 
 ```bash
-git clone https://github.com/seu-usuario/StreamingFlix.git
+git clone https://github.com/dmannadias-gif/streaming-flix-xunit.git
 ```
 
 ### 2. Acessar o Diretório do Projeto
